@@ -88,7 +88,8 @@ For each selected paper, collect:
 - **Paper Title**
 - **arXiv ID** (e.g., `arXiv:2411.01234`)
 - **Direct arXiv Link**  
-  Format: `https://arxiv.org/abs/XXXX.XXXXX`
+  Format: `https://arxiv.org/abs/XXXX.XXXXX`  
+  *This link must be included as a clickable URL.*
 
 ---
 
@@ -114,7 +115,9 @@ For each of the 5 papers, write a concise but thoughtful summary that includes:
 - **Implications or open questions**, especially for human–AI systems
 
 Write clearly, but do not oversimplify.  
-Assume an intelligent, technically literate reader.
+Assume an intelligent, technically literate reader.  
+
+*Each summary must explicitly reference the linked paper using the clickable URL provided in the metadata.*
 
 ---
 
@@ -138,7 +141,7 @@ Provide one subsection per paper using the following structure:
 
 - **Title:**  
 - **arXiv ID:**  
-- **Direct Link:**  
+- **Direct Link:**  (clickable URL)  
 
 **Summary:**  
 (Focus on what changed, why it matters now, what broke or surprised, and broader implications.)
