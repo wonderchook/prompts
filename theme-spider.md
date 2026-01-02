@@ -91,6 +91,8 @@ A signal may be:
 
 Signals should be concise and concrete.
 
+Each signal must include a **link to the original web source** when available.
+
 ---
 
 ### 4. Surface Tensions
@@ -126,15 +128,19 @@ For each theme, include:
 
 #### Theme N: <Bold Theme Name>
 
-- **Theme maturity:** Nascent / Emerging / Established
-- **Theme summary:** (1–2 sentences)
-- **Key signals observed:**
-  - Signal 1 (source + brief description)
-  - Signal 2
-  - Signal 3
-- **Why this is uncomfortable or non-obvious:**
-- **Tensions surfaced:** (list)
-- **What this might imply if it continues:** (clearly labeled speculation)
+- **Theme maturity:** Nascent / Emerging / Established  
+- **Theme summary:** (1–2 sentences)  
+- **Key signals observed:**  
+  - Signal 1 description  
+  - Signal 2 description  
+  - Signal 3 description  
+- **Sources & Links:**  
+  - Signal 1 source: [Clickable URL]  
+  - Signal 2 source: [Clickable URL]  
+  - Signal 3 source: [Clickable URL]  
+- **Why this is uncomfortable or non-obvious:**  
+- **Tensions surfaced:** (list)  
+- **What this might imply if it continues:** (clearly labeled speculation)  
 
 Prioritize sharp signals over exhaustive coverage.  
 Name themes even if they feel risky.  
